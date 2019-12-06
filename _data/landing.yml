@@ -27,7 +27,7 @@
   - id: blog
   i18n: nav.blog
   name: Publications
-  tpl: blog.html
+  tpl: publications.yml
   css: career
 
 
