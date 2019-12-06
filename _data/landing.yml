@@ -24,10 +24,9 @@
   tpl: projects.html
   css: project
 
-  - id: blog
-  i18n: nav.blog
-  name: Publications
-  tpl: publications.yml
-  css: career
 
-
+- id: skills
+  i18n: nav.skills
+  name: Skills
+  tpl: skills.html
+  css: team
